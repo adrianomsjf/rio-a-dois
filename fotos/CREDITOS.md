@@ -1,0 +1,164 @@
+# Créditos das fotos
+
+Todas as fotos vêm do Wikimedia Commons, com licença livre. Cada página de passeio mostra o crédito junto da foto.
+
+- `academia-cachaca.jpg`: Caipirinha de cachaça, o clássico da casa. Foto de Schermann, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Caipirinha_cachaca_brazil.JPG
+- `academia-cachaca-2.jpg`: Garrafas de cachaça. Foto de Adrian Michael, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Cacha%C3%A7a_bottles.jpg
+- `academia-cachaca-3.jpg`: Uma rua do Leblon, bairro da Academia. Foto de Boaventuravinicius, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Rua_tradicional_do_Leblon.jpg
+- `academia-cachaca-4.jpg`: Mostruário de cachaças. Foto de André Koehne, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Mostru%C3%A1rio_Cacha%C3%A7a_Princesa_do_Sert%C3%A3o,_de_Santa_Luzia,_Caetit%C3%A9.jpg
+- `aprazivel.jpg`: A vista da cidade a partir de Santa Teresa. Foto de Adam Jones, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:View_from_Santa_Teresa_District_-_Rio_de_Janeiro_-_Brazil_(17557120891).jpg
+- `aprazivel-2.jpg`: O Centro visto do alto do bairro. Foto de Edmir Silvestre, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Lapa_and_cathedral-view_from_Parque_das_Ru%C3%ADnas_(9351059429).jpg
+- `aprazivel-3.jpg`: Ladeiras e casarões de Santa Teresa. Foto de Adam Jones, Ph.D., CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Santa_Teresa_District_-_Rio_de_Janeiro_-_Brazil.jpg
+- `aprazivel-4.jpg`: O bondinho, que leva ao bairro. Foto de Henrique Freire / GovRJ, CC BY 3.0 br. Fonte: https://commons.wikimedia.org/wiki/File:Bonde_santa_teresa_govrj.jpg
+- `arpoador.jpg`: Pôr do sol visto da Pedra do Arpoador. Foto de Tet, CC BY 4.0. Fonte: https://commons.wikimedia.org/wiki/File:P%C3%B4r-do-sol_na_Pedra_do_Arpoador_2014_11_17.jpg
+- `arpoador-2.jpg`: O público na pedra esperando o sol se pôr. Foto de Louise Tamiasi, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Aplausos.jpg
+- `arpoador-3.jpg`: O Morro Dois Irmãos no fim da tarde. Foto de Maylle Lo Feudo, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Vista_para_o_Morro_Dois_Irm%C3%A3os_-_por_do_sol_no_Arpoador.jpg
+- `arpoador-4.jpg`: Fim de tarde na Praia do Arpoador. Foto de Luiz Souza, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Observando_o_P%C3%B4r_do_Sol_na_Praia_do_Arpoador_-_RJ.jpg
+- `astor.jpg`: A Avenida Vieira Souto, onde fica o Astor. Foto de Fronteira, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Avenida_Vieira_Souto,_Ipanema,_Rio_de_Janeiro,_maio_de_2025_(1).jpg
+- `astor-2.jpg`: A Praia de Ipanema em frente. Foto de Arne Müseler, CC BY-SA 3.0 de. Fonte: https://commons.wikimedia.org/wiki/File:Praia_de_Ipanema_rio.jpg
+- `astor-3.jpg`: Caipirinha, um dos drinques da casa. Foto de rawpixel.com, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Caipirinha_with_lime.jpg
+- `astor-4.jpg`: O Arpoador, a poucos passos do bar. Foto de VinnyWiki, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pedra_do_Arpoador_-_Rio.jpg
+- `aterro-mam.jpg`: O Museu de Arte Moderna, projeto de Affonso Eduardo Reidy. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_01.jpg
+- `aterro-mam-2.jpg`: O Aterro do Flamengo visto do Pão de Açúcar. Foto de CyroHenrique, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Aterro_do_Flamengo_-_Vista_do_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg
+- `aterro-mam-3.jpg`: O parque visto do Morro da Urca. Foto de Pppires, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Aterro_do_Flamengo_visto_a_partir_do_morro_da_Urca.jpg
+- `aterro-mam-4.jpg`: Os jardins de Burle Marx junto ao MAM. Foto de Boaventuravinicius, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:06-Lagos_de_Plantas_Aqu%C3%A1ticas_do_Museu_de_Arte_Moderna.jpg
+- `bar-do-gomes.jpg`: O Largo dos Guimarães, coração boêmio de Santa Teresa. Foto de Fulviusbsas, CC BY 4.0. Fonte: https://commons.wikimedia.org/wiki/File:SantaTeresa-LargoGuimaraes1.jpg
+- `bar-do-gomes-2.jpg`: O bondinho passando pelo Largo dos Guimarães. Foto de Leandro Neumann Ciuffo, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_tram_06_at_Largo_do_Guimar%C3%A3es.jpg
+- `bar-do-gomes-3.jpg`: Uma rua de Santa Teresa. Foto de Fulviusbsas, CC BY 4.0. Fonte: https://commons.wikimedia.org/wiki/File:SantaTeresa-Street7.jpg
+- `bar-do-gomes-4.jpg`: Casarios do bairro. Foto de Pavel Špindler, CC BY 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Santa_Teresa_-_Rio_de_Janeiro_-_panoramio.jpg
+- `bar-lagoa.jpg`: A Lagoa Rodrigo de Freitas, em frente ao bar. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Rodrigo_de_Freitas_Lagoon_in_Rio_de_Janeiro_1.jpg
+- `bar-lagoa-2.jpg`: Prato servido no Bar Lagoa. Foto de Monica Kaneko, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Moqueca_de_Namorado_no_Bar_Lagoa_(5045128405).jpg
+- `bar-lagoa-3.jpg`: Torta de maçã e café no Bar Lagoa. Foto de Monica Kaneko, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Torta_de_ma%C3%A7a_e_caf%C3%A9_no_Bar_Lagoa_(5045129889).jpg
+- `bar-lagoa-4.jpg`: A Lagoa ao entardecer. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Lagoa_Rodrigo_de_Freitas_10.jpg
+- `bar-luiz.jpg`: Roda de choro em frente ao Bar Luiz. Foto de Monica Kaneko, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Grupo_de_Chorinho_em_frente_ao_Bar_Luiz.jpg
+- `bar-luiz-2.jpg`: A fachada na Rua da Carioca. Foto de Rodrigo do Val Ferreira, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Bar_Luiz.jpg
+- `bar-luiz-3.jpg`: O salão do bar. Foto de Monica Kaneko, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Bar_Luiz_-_Interior.jpg
+- `bar-luiz-4.jpg`: Milanesa com salada de batata, clássico da casa. Foto de Monica Kaneko, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Milanesa_e_Salada_de_Batata_no_Bar_Luiz_(5045102359).jpg
+- `bicicleta-orla.jpg`: Ciclistas na ciclovia da orla. Foto de Dmy462, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:BikeRio_users_during_Ciclovia.jpg
+- `bicicleta-orla-2.jpg`: Pedalando no Aterro do Flamengo. Foto de Diegorubinato, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Aterro_do_Flamengo_bike.jpg
+- `bicicleta-orla-3.jpg`: A orla de Ipanema perto do Posto 9. Foto de Mariordo (Mario Roberto Duran Ortiz), CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_08_2013_Ipanema_beach_near_Posto_9_Km_6913.JPG
+- `bicicleta-orla-4.jpg`: A volta da Lagoa Rodrigo de Freitas. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Lagoa_Rodrigo_de_Freitas_14.jpg
+- `bip-bip.jpg`: Música ao vivo no Bip Bip. Foto de Lgjunior, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Show_no_Bip_Bip_-_Copacabana_-_RJ.jpg
+- `bip-bip-2.jpg`: A roda de samba em volta da mesa. Foto de Lgjunior, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Roda_de_samba_no_Bip_Bip_-_Copacabana_-_RJ.jpg
+- `bip-bip-3.jpg`: Quiosque no calçadão de Copacabana à noite. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Cabana_beach_kiosk_at_night_on_the_Copacabana_promenade,_Rio_de_Janeiro,_Brazil.jpg
+- `bip-bip-4.jpg`: Copacabana iluminada. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Beach_and_Avenida_Atl%C3%A2ntica_at_night,_Rio_de_Janeiro,_Brazil.jpg
+- `botecos-leblon.jpg`: A Avenida Ataulfo de Paiva, endereço do Jobi. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Avenida_Ataulfo_de_Paiva.jpg
+- `botecos-leblon-2.jpg`: Bolinho de bacalhau, o petisco obrigatório. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Bolinhos_de_bacalhau.jpg
+- `botecos-leblon-3.jpg`: Ruas arborizadas do Leblon. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Rua_Cupertino_Dur%C3%A3o.jpg
+- `botecos-leblon-4.jpg`: A orla do Leblon, a uma quadra dos botecos. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Avenida_Delfim_Moreira.jpg
+- `bukowski.jpg`: Botafogo à noite. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Botafogo_waterfront_skyline_reflected_at_night,_Rio_de_Janeiro,_Brazil.jpg
+- `bukowski-2.jpg`: Uma rua de Botafogo à noite. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Rua_Bar%C3%A3o_de_Itambi_%C3%A0_noite.jpg
+- `bukowski-3.jpg`: Clima de show de rock (foto ilustrativa). Foto de Jay Roc, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Mystic_Braves_-_guitarist_playing_VOX_Mark_guitar_-_Bunk_Bar_(2015-06-04_23.51.37_by_Jay_Roc).jpg
+- `bukowski-4.jpg`: O bairro de Botafogo. Foto de Marcus Guimarães, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Botafogo_1.jpg
+- `carioca-da-gema.jpg`: O Carioca da Gema, na Lapa. Foto de PESP/ Wikimedia, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Carioca_da_Gema.jpg
+- `carioca-da-gema-2.jpg`: Os Arcos da Lapa iluminados. Foto de AlexandreLuizOliveira, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Arcos_da_Lapa_colorido.jpg
+- `carioca-da-gema-3.jpg`: Os Arcos, a poucos passos da casa. Foto de Carlos Lucio, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Arcos_e_Aquedutos_Lapa.jpg
+- `carioca-da-gema-4.jpg`: A Lapa vista do alto. Foto de AHLN, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Bridge_in_Lapa.jpg
+- `catacumba.jpg`: A vista do Mirante do Sacopã. Foto de Mcalvet, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Vista_do_Mirante_Sacop%C3%A3.jpg
+- `catacumba-2.jpg`: A trilha pela mata. Foto de Lucimara de Sousa Facciolla, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Parque_da_Catacumba-_Trilha.jpg
+- `catacumba-3.jpg`: Lagoa, Dois Irmãos e Leblon vistos do parque. Foto de Marie.V.Gr, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:View_on_Lagoa,_Dois_Irmaos_and_Leblon.jpg
+- `catacumba-4.jpg`: O Parque Natural Municipal da Catacumba. Foto de MTur Destinos, domínio público. Fonte: https://commons.wikimedia.org/wiki/File:CarlosErbsJr_Parque_Natural_Municipal_da_Catacumba_Rio_de_Janeiro_RJ_(40254788994).jpg
+- `ccbb.jpg`: O prédio histórico do CCBB. Foto de MTur Destinos, domínio público. Fonte: https://commons.wikimedia.org/wiki/File:BrunaPrado_Centro_Cultural_Banco_do_Brasil_Rio_de_Janeiro_RJ_(41577814431).jpg
+- `ccbb-2.jpg`: A rotunda e a cúpula. Foto de Rodrigo.Argenton, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Detalhe_do_%C3%81trio_do_Centro_Cultural_Banco_do_Brasil_no_Rio_de_Janeiro_por_Rodrigo_Tetsuo_Argenton_(02).jpg
+- `ccbb-3.jpg`: O CCBB no Centro do Rio. Foto de Mwaldeck, domínio público. Fonte: https://commons.wikimedia.org/wiki/File:CCBB-Rio_2017-07-10.jpg
+- `ccbb-4.jpg`: A fachada na Rua Primeiro de Março. Foto de MisterSanderson, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Centro_Cultural_Banco_do_Brasil_-_Rio_de_Janeiro.jpg
+- `centro-historico.jpg`: O Real Gabinete Português de Leitura. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Real_Gabinete_Portugu%C3%AAs_de_Leitura_01.jpg
+- `centro-historico-2.jpg`: O salão da Confeitaria Colombo. Foto de Diego Baravelli, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Confeitaria_Colombo_by_Diego_Baravelli.jpg
+- `centro-historico-3.jpg`: A fachada do Theatro Municipal. Foto de Walter Britto Gaspar, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Theatro_Municipal_do_Rio_de_Janeiro,_fachada.jpg
+- `centro-historico-4.jpg`: Concerto no Theatro Municipal. Foto de Leone Melo, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Concerto_-_Theatro_Municipal_do_Rio.jpg
+- `cha-copacabana-palace.jpg`: O Copacabana Palace, de frente para a praia. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Palace_Hotel,_Rio_de_Janeiro,_Brazil.jpg
+- `cha-copacabana-palace-2.jpg`: A piscina do hotel. Foto de Md mackinnon, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pool_at_copa_palace_hotel.JPG
+- `cha-copacabana-palace-3.jpg`: Mesa servida no Salão Nobre. Foto de Patricia Figueira, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Palace_-_Buffet_at_the_Noble_Room_(1).jpg
+- `cha-copacabana-palace-4.jpg`: O Golden Room. Foto de Patricia Figueira, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Palace_-_Golden_Room_(1).jpg
+- `claudio-coutinho.jpg`: A Pista Cláudio Coutinho, entre o mar e o morro. Foto de Marinelson Almeida - Traveling through Brazil, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Pista_Claudio_Coutinho_-_Rio_de_Janeiro._(14766624668).jpg
+- `claudio-coutinho-2.jpg`: Micos no caminho. Foto de mlleCervilla, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Dois_micos_no_caminho.JPG
+- `claudio-coutinho-3.jpg`: A Ilha de Cotunduba vista da pista. Foto de Marinelson Almeida - Traveling through Brazil, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Ilha_de_Cotunduba_visto_da_pista_Claudio_Coutinho._(14949367991).jpg
+- `claudio-coutinho-4.jpg`: O Pão de Açúcar visto do alto do Morro da Urca. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Sugarloaf_Mountain_and_cable_car_station_viewed_from_Morro_da_Urca,_Rio_de_Janeiro,_Brazil.jpg
+- `cobal-humaita.jpg`: A Cobal do Humaitá. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Cobal_do_Humait%C3%A1.jpg
+- `cobal-humaita-2.jpg`: Um dos cafés da Cobal. Foto de Eduardo P, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:DeVeras_caf%C3%A8.jpg
+- `cobal-humaita-3.jpg`: O Cristo visto do Humaitá. Foto de Barbara Palermo, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Vista_do_Cristo_pelo_Humait%C3%A1.JPG
+- `cobal-humaita-4.jpg`: O Humaitá, aos pés do Corcovado. Foto de Omar Uran, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Humait%C3%A1_-_Suvaco_do_Cristo_Redentor.jpg
+- `coordenadas.jpg`: A Enseada de Botafogo. Foto de José Carlos B Fialho, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Enseada_de_Botafogo_-_P%C3%A3o_de_A%C3%A7ucar_-_Morro_da_Urca.jpg
+- `coordenadas-2.jpg`: Banda tocando num bar (foto ilustrativa). Foto de Candycaneman, CC0. Fonte: https://commons.wikimedia.org/wiki/File:LAKE_playing_at_The_Hideout_in_Chicago,_Illinois,_USA_(2025-04-20).jpg
+- `coordenadas-3.jpg`: A Praia de Botafogo. Foto de Junius, domínio público. Fonte: https://commons.wikimedia.org/wiki/File:Praia_de_Botafogo_8.jpg
+- `coordenadas-4.jpg`: A Rua São Clemente, em Botafogo. Foto de Fulviusbsas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:RuaSaoClemente4.jpg
+- `cristo-redentor.jpg`: O Cristo acima das nuvens. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Redentor_Over_Clouds_1.jpg
+- `cristo-redentor-2.jpg`: O trem na Estação Paineiras. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Trem_do_Corcovado_na_Esta%C3%A7%C3%A3o_Paineiras_01.jpg
+- `cristo-redentor-3.jpg`: O Cristo Redentor. Foto de Arne Müseler, CC BY-SA 3.0 de. Fonte: https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor_-_2022.jpg
+- `cristo-redentor-4.jpg`: Os trilhos do trem pela mata. Foto de Nan Palmero, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Trem_do_Corcovado_(16363398255).jpg
+- `drinque-copacabana-palace.jpg`: O hotel iluminado. Foto de Florent Pecassou, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Palace_at_night.jpg
+- `drinque-copacabana-palace-2.jpg`: A fachada ao anoitecer. Foto de Carlos Alkmin, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Fachada_do_Copacabana_Palace_ao_anoitecer_-_Rio_de_Janeiro_-_foto_Carlos_Alkmin.jpg
+- `drinque-copacabana-palace-3.jpg`: O Salão Nobre. Foto de Patricia Figueira, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Palace_-_Noble_Room_(1).jpg
+- `drinque-copacabana-palace-4.jpg`: A entrada do Copacabana Palace à noite. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Belmond_Copacabana_Palace_entrance_at_night,_Rio_de_Janeiro,_Brazil.jpg
+- `escadaria-selaron.jpg`: A Escadaria Selarón. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Escadaria_Selar%C3%B3n_-_Rio_de_Janeiro_-_20240417062601.jpg
+- `escadaria-selaron-2.jpg`: Os azulejos dos degraus. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Tiled_steps_of_Escadaria_Selar%C3%B3n,_Rio_de_Janeiro,_Brazil.jpg
+- `escadaria-selaron-3.jpg`: Os Arcos da Lapa. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Arcos_da_Lapa_01.jpg
+- `escadaria-selaron-4.jpg`: Os Arcos da Lapa ao entardecer. Foto de Diego Baravelli, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Arcos_da_Lapa_by_Diego_Baravelli.jpg
+- `feira-hippie.jpg`: A Praça General Osório, onde a feira acontece. Foto de Fulviusbsas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Ipanema-Pra%C3%A7a1.jpg
+- `feira-hippie-2.jpg`: A praça em Ipanema. Foto de Francisco Anzola, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Praca_Osorio_(4400747633).jpg
+- `feira-hippie-3.jpg`: O Chafariz das Saracuras, no meio da praça. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Chafariz_das_Saracuras_na_Pra%C3%A7a_General_Os%C3%B3rio.jpg
+- `feira-hippie-4.jpg`: Outro ângulo da Praça General Osório. Foto de Fulviusbsas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Ipanema-Pra%C3%A7a2.jpg
+- `floresta-tijuca.jpg`: A Vista Chinesa. Foto de Daydeandrade, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Vista_Chinesa.JPG
+- `floresta-tijuca-2.jpg`: A cidade vista da Mesa do Imperador. Foto de Silviad23, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_visto_da_Mesa_do_Imperador.jpg
+- `floresta-tijuca-3.jpg`: A Cascatinha Taunay. Foto de Marinelson Almeida - Traveling through Brazil, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Cascatinha_Taunay._(6827655136).jpg
+- `floresta-tijuca-4.jpg`: Dentro da Floresta da Tijuca. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Floresta_da_Tijuca_30.jpg
+- `fogo-de-chao.jpg`: A Enseada de Botafogo e o Pão de Açúcar, a vista do restaurante. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg
+- `fogo-de-chao-2.jpg`: O Pão de Açúcar visto de Botafogo. Foto de Fwellisch, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:P%C3%A3o_de_A%C3%A7ucar_-_Vista_enseada_de_Botafogo.jpg
+- `fogo-de-chao-3.jpg`: Salão de uma unidade da rede (foto ilustrativa). Foto de Bonnachoven, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Fogo_de_Ch%C3%A3o_Carle_Place_Kitchen.jpg
+- `fogo-de-chao-4.jpg`: A orla de Botafogo. Foto de Carlos Luis M C da Cruz, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Enseada_de_botafogo_rj_brasil.JPG
+- `forte-copacabana.jpg`: A praia de Copacabana vista do Forte. Foto de DiegoL569, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Forte_de_Copacabana_-_Vista_para_a_praia.jpg
+- `forte-copacabana-2.jpg`: Casal apreciando a vista. Foto de DiegoL569, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Forte_de_Copacabana_-_Namorados_apreciando_a_vista_do_forte.jpg
+- `forte-copacabana-3.jpg`: Os canhões do Forte. Foto de Carlos Alkmin, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Forte_de_Copacabana_-_Rio_de_Janeiro_-_canh%C3%A3o_e_Ba%C3%ADa_de_Guanabara_-_foto_Carlos_Alkmin.jpg
+- `forte-copacabana-4.jpg`: O Forte à noite. Foto de Ricardo Deutsch Junior, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Forte_de_Copacabana_a_noite.jpg
+- `jardim-botanico.jpg`: A aleia das palmeiras imperiais. Foto de R faveri, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Palmeiras_Imperiais_Jardim_Bot%C3%A2nico_Rio_de_Janeiro.jpg
+- `jardim-botanico-2.jpg`: O orquidário. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:JBRJ_-_Orquid%C3%A1rio.jpg
+- `jardim-botanico-3.jpg`: O bromeliário. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:JBRJ_-_Bromeli%C3%A1rio_01.jpg
+- `jardim-botanico-4.jpg`: O chafariz e os jardins. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:JBRJ_Tacca.jpg
+- `nova-capela.jpg`: Os Arcos da Lapa, vizinhos do restaurante. Foto de Eugenio Hansen, OFS, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Arcos_da_Lapa_Rio_de_Janeiro.JPG
+- `nova-capela-2.jpg`: Cabrito assado, prato tradicional da casa. Foto de MunParedes, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Cabrito_Assado_Paredes.jpg
+- `nova-capela-3.jpg`: Bolinho de bacalhau, outro clássico português. Foto de Christian Benseler, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Bolinho_de_bacalhau_da_vov%C3%B3_(16079982696).jpg
+- `nova-capela-4.jpg`: Os Arcos da Lapa. Foto de Dornicke, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Arcos_da_Lapa_02.jpg
+- `pao-de-acucar.jpg`: O bondinho chegando ao Pão de Açúcar. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Cable_Car_Coming_Up_to_the_Sugarloaf_Mountain.jpg
+- `pao-de-acucar-2.jpg`: O pôr do sol lá do alto. Foto de Ferreiraandreza, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:P%C3%B4r_do_sol_no_P%C3%A3o_de_A%C3%A7%C3%BAcar_2.jpg
+- `pao-de-acucar-3.jpg`: A cidade e o Cristo vistos do Pão de Açúcar. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain,_Brazil.jpg
+- `pao-de-acucar-4.jpg`: Botafogo ao entardecer. Foto de Sandra Cohen-Rose and Colin Rose, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Botafogo_seen_from_top_of_Sugar_Loaf_at_sunset_(6063381756).jpg
+- `parque-lage.jpg`: O palacete com o Cristo ao fundo. Foto de Marco Antonio Perna, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Parque_Lage_e_Cristo_Redentor.jpg
+- `parque-lage-2.jpg`: O pátio interno com a piscina. Foto de Homero A Junior, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Parque_Lage,_fachada_interna.JPG
+- `parque-lage-3.jpg`: O lago do parque. Foto de Filipo tardim, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Lago_dos_Patos_-_Parque_Lage.jpg
+- `parque-lage-4.jpg`: Os jardins do Parque Lage. Foto de Mayra Pavanello Munerato, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Parque_Lage_-_Rio_de_Janeiro_1.jpg
+- `pedra-do-sal.jpg`: A Pedra do Sal. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pedra_do_Sal_1.jpg
+- `pedra-do-sal-2.jpg`: A escadaria esculpida na pedra. Foto de Felipe Restrepo Acosta, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:2018_Rio_de_Janeiro_-_Pedra_do_Sal.jpg
+- `pedra-do-sal-3.jpg`: O largo onde acontece a roda. Foto de Gabibzz, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pedra_do_Sal_-_Rio_de_Janeiro_-_20240914095637.jpg
+- `pedra-do-sal-4.jpg`: Pixinguinha pintado no muro. Foto de Jcornelius, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pixinguinha_painting_at_Pedra_do_Sal,_Rio_de_Janeiro,_15-05-2022.jpg
+- `praca-maua.jpg`: O Museu do Amanhã. Foto de Marcelo Martins Teixeira, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Museu_do_Amanh%C3%A3_2016.jpg
+- `praca-maua-2.jpg`: O Museu de Arte do Rio (MAR). Foto de Marinelson Almeida - Traveling through Brazil, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Museu_de_Arte_do_Rio_-_MAR_(8729729032).jpg
+- `praca-maua-3.jpg`: O mural Etnias, de Eduardo Kobra, no Boulevard Olímpico. Foto de Buzancar (Photo), CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Mural_Etnias,_Panorama_(Eduardo_Kobra).jpg
+- `praca-maua-4.jpg`: A Praça Mauá. Foto de Diego Baravelli, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Mau%C3%A1,_Rio_de_Janeiro.jpg
+- `praca-xv.jpg`: O Paço Imperial. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_Imperial_-_Rio_de_Janeiro_-_20220826171533.jpg
+- `praca-xv-2.jpg`: O Arco do Teles. Foto de Ricardo Deutsch Junior, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Arco_do_Teles_-_RJ.jpg
+- `praca-xv-3.jpg`: O Chafariz do Mestre Valentim. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Chafariz_do_Mestre_Valentim_1.jpg
+- `praca-xv-4.jpg`: O casario da Travessa do Comércio. Foto de Rodrigojordy, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Arco_do_Teles_e_seu_casario_interior.JPG
+- `quiosques-lagoa.jpg`: A Lagoa Rodrigo de Freitas à noite. Foto de Donatas Dabravolskas, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Rodrigo_de_Freitas_Lagoon_at_Night.jpg
+- `quiosques-lagoa-2.jpg`: O espelho d'água iluminado. Foto de Rosino, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Rodrigo_de_Freitas_Lagoon_night.jpg
+- `quiosques-lagoa-3.jpg`: As luzes em volta da Lagoa. Foto de chensiyuan, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:1_lagoa_rodrigo_de_freitas_night.jpg
+- `quiosques-lagoa-4.jpg`: A Lagoa e o Cristo Redentor. Foto de Edmir Silvestre, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Rodrigo_de_Freitas_lagoon_and_The_Redeemer-view_from_parque_do_Penhasco_(9351227759).jpg
+- `rio-scenarium.jpg`: O salão cheio de antiguidades. Foto de Grupo Scenarium, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_Scenarium.jpg
+- `rio-scenarium-2.jpg`: A fachada iluminada à noite. Foto de Grupo Scenarium, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_Scenarium_fachada.jpg
+- `rio-scenarium-3.jpg`: Show no palco do Rio Scenarium. Foto de Marina Mendes, domínio público. Fonte: https://commons.wikimedia.org/wiki/File:Leoni05.jpg
+- `rio-scenarium-4.jpg`: A Rua do Lavradio, endereço da casa. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Feira_Rio_Antigo_na_Rua_do_Lavradio_I.jpg
+- `rooftops.jpg`: Copacabana vista de um terraço. Foto de Porto Bay Hotels & Resorts, CC BY 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Copacabana_Rooftop_View.jpg
+- `rooftops-2.jpg`: Ipanema e Leblon vistos do alto. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Panoramic_of_Praia_do_Leblon_and_Ipanema,_Rio_de_Janeiro,_Brazil.jpg
+- `rooftops-3.jpg`: A vista de Santa Teresa. Foto de Tet, CC BY 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_a_partir_do_Parque_das_Ru%C3%ADnas_2024_11_24.jpg
+- `rooftops-4.jpg`: O fim de tarde visto do alto. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg
+- `santa-teresa.jpg`: O bondinho de Santa Teresa. Foto de Henrique Freire, CC BY 2.0 br. Fonte: https://commons.wikimedia.org/wiki/File:Bonde_de_Santa_Teresa.jpg
+- `santa-teresa-2.jpg`: O Parque das Ruínas. Foto de Sebástian Freire, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Parque_das_Ru%C3%ADnas_(30995065308).jpg
+- `santa-teresa-3.jpg`: O Museu Chácara do Céu. Foto de Fulviusbsas, CC BY 4.0. Fonte: https://commons.wikimedia.org/wiki/File:ChacaraCeu-1.jpg
+- `santa-teresa-4.jpg`: O bonde subindo as ladeiras. Foto de Dennis G. Jarvis, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Brazil-01128_-_Santa_Teresa_Tram_(48980323803).jpg
+- `sao-bento.jpg`: O interior barroco da igreja. Foto de Ceienca, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Interior_do_Mosteiro_de_S%C3%A3o_Bento.jpg
+- `sao-bento-2.jpg`: A fachada do Mosteiro. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Mosteiro_de_S%C3%A3o_Bento_do_Rio_de_Janeiro_-_Fachada.jpg
+- `sao-bento-3.jpg`: O teto pintado. Foto de Wilfredor, CC BY-SA 4.0. Fonte: https://commons.wikimedia.org/wiki/File:Painted_ceiling_of_the_Mosteiro_de_Sao_Bento.jpg
+- `sao-bento-4.jpg`: A Capela do Santíssimo Sacramento. Foto de Halley Pacheco de Oliveira, CC BY-SA 3.0. Fonte: https://commons.wikimedia.org/wiki/File:Mosteiro_de_S%C3%A3o_Bento_do_Rio_de_Janeiro_Capela_do_Sant%C3%ADssimo_Sacramento.jpg
+- `sao-cristovao.jpg`: Movimento na Feira de São Cristóvão. Foto de Adam Jones, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Scene_at_Feira_De_Sao_Cristovao_-_Zona_Norte_-_Rio_de_Janeiro_-_Brazil_-_01_(17556944211).jpg
+- `sao-cristovao-2.jpg`: Os corredores do Centro Luiz Gonzaga. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Market_interior_at_Centro_Luiz_Gonzaga,_Rio_de_Janeiro,_Brazil.jpg
+- `sao-cristovao-3.jpg`: Queijos e produtos nordestinos. Foto de Wilfredor, CC0. Fonte: https://commons.wikimedia.org/wiki/File:Cheese_counter_at_Centro_Luiz_Gonzaga,_Rio_de_Janeiro,_Brazil.jpg
+- `sao-cristovao-4.jpg`: Barracas da feira. Foto de Adam Jones, CC BY-SA 2.0. Fonte: https://commons.wikimedia.org/wiki/File:Scene_at_Feira_De_Sao_Cristovao_-_Zona_Norte_-_Rio_de_Janeiro_-_Brazil_-_03_(17369270208).jpg
