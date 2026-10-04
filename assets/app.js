@@ -75,6 +75,12 @@
     });
   }
 
+  function ampliar(src, alt){
+    var z = document.createElement("div"); z.className = "zoom";
+    var zi = document.createElement("img"); zi.src = src; zi.alt = alt;
+    z.appendChild(zi); z.addEventListener("click", function(){ z.remove(); }); document.body.appendChild(z);
+  }
+
   function item(){
     var slug = document.body.dataset.slug, d = ler(), n = doItem(d, slug);
     var salvo = document.getElementById("salvo"), t;
@@ -110,11 +116,7 @@
       (n.fotos || []).forEach(function(src, i){
         var fig = document.createElement("figure");
         var img = document.createElement("img"); img.src = src; img.alt = "Nossa foto " + (i+1);
-        img.addEventListener("click", function(){
-          var z = document.createElement("div"); z.className = "zoom";
-          var zi = document.createElement("img"); zi.src = src; zi.alt = img.alt;
-          z.appendChild(zi); z.addEventListener("click", function(){ z.remove(); }); document.body.appendChild(z);
-        });
+        img.addEventListener("click", function(){ ampliar(src, img.alt); });
         var del = document.createElement("button"); del.textContent = "✕"; del.setAttribute("aria-label", "Remover foto " + (i+1));
         del.addEventListener("click", function(){ n.fotos.splice(i, 1); pintaFotos(); salvar("Foto removida."); });
         fig.appendChild(img); fig.appendChild(del); gal.appendChild(fig);
@@ -144,6 +146,10 @@
       ev.target.value = "";
     });
     pintaFotos();
+    // fotos do lugar
+    document.querySelectorAll(".fotos-lugar img").forEach(function(im){
+      im.addEventListener("click", function(){ ampliar(im.src, im.alt); });
+    });
   }
 
   window.RioADois = {indice:indice, item:item};

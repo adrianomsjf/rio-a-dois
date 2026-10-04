@@ -118,6 +118,15 @@ main{display:block}
 .periodo-noite .salvo{color:#9FD8B4}
 .periodo-noite .vizinhos{background:#0F1438}
 
+.fotos-sec{margin-top:2.25rem}
+.fotos-lugar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.fotos-lugar figure{margin:0}
+.fotos-lugar img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:6px;cursor:zoom-in;background:var(--linha)}
+.fotos-lugar figcaption{font-family:var(--display);font-size:.92rem;line-height:1.35;margin-top:.4rem}
+.fotos-lugar small{display:block;font-size:.75rem;opacity:.7;margin-top:.15rem}
+.periodo-noite .fotos-lugar img{background:var(--noite-2)}
+@media (max-width:420px){.fotos-lugar{grid-template-columns:1fr}}
+
 .zoom{position:fixed;inset:0;background:rgba(10,15,25,.92);display:flex;align-items:center;justify-content:center;z-index:50;cursor:zoom-out;padding:1rem}
 .zoom img{max-height:92vh;max-width:96vw;border-radius:4px}
 
