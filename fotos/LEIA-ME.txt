@@ -1,0 +1,44 @@
+Para usar fotos de verdade nas capas, coloquem aqui arquivos .jpg com o nome do passeio.
+Exemplo: pao-de-acucar.jpg, bukowski.jpg
+
+Nomes disponíveis:
+pao-de-acucar.jpg
+cristo-redentor.jpg
+jardim-botanico.jpg
+parque-lage.jpg
+santa-teresa.jpg
+centro-historico.jpg
+praca-maua.jpg
+floresta-tijuca.jpg
+claudio-coutinho.jpg
+bicicleta-orla.jpg
+forte-copacabana.jpg
+feira-hippie.jpg
+sao-bento.jpg
+praca-xv.jpg
+ccbb.jpg
+escadaria-selaron.jpg
+aterro-mam.jpg
+catacumba.jpg
+cha-copacabana-palace.jpg
+cobal-humaita.jpg
+arpoador.jpg
+pedra-do-sal.jpg
+rio-scenarium.jpg
+carioca-da-gema.jpg
+drinque-copacabana-palace.jpg
+rooftops.jpg
+aprazivel.jpg
+botecos-leblon.jpg
+quiosques-lagoa.jpg
+sao-cristovao.jpg
+bar-do-gomes.jpg
+bukowski.jpg
+coordenadas.jpg
+bar-lagoa.jpg
+bip-bip.jpg
+bar-luiz.jpg
+nova-capela.jpg
+academia-cachaca.jpg
+astor.jpg
+fogo-de-chao.jpg

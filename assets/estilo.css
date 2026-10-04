@@ -1,0 +1,131 @@
+:root{
+  --tinta:#13202B; --mar:#1F7A8C; --oceano:#0E3B5C; --sol:#F2B33D; --mata:#2F6B4F;
+  --brisa:#EEF3F5; --branco:#FFFFFF; --noite:#1B1F4A; --noite-2:#262B60; --linha:#D3DEE3;
+  --display:"Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --texto:"Literata", Georgia, "Times New Roman", serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--brisa);color:var(--tinta);font-family:var(--texto);font-size:1.0625rem;line-height:1.65}
+img,svg{display:block;max-width:100%}
+a{color:var(--oceano)}
+:focus-visible{outline:3px solid var(--sol);outline-offset:3px;border-radius:4px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+h1,h2,h3{font-family:var(--display);line-height:1.1;margin:0}
+
+/* faixa do calçadão: o elemento-assinatura */
+.calcadao{height:44px;background:var(--branco);overflow:hidden}
+.calcadao svg{width:100%;height:100%}
+
+/* ---------- índice ---------- */
+.topo{background:var(--oceano);color:var(--branco);padding:clamp(3rem,9vw,7rem) clamp(1.25rem,5vw,4rem) 2.5rem}
+.topo-txt{max-width:60rem}
+.topo h1{font-size:clamp(3.5rem,13vw,9.5rem);font-weight:800;letter-spacing:-.04em;line-height:.9}
+.topo .sub{max-width:36rem;font-size:1.15rem;margin:1.5rem 0 .5rem;color:#D9E8EE}
+.progresso{font-family:var(--display);color:var(--sol);margin:0;font-weight:600}
+
+.filtros{position:sticky;top:0;z-index:5;background:var(--branco);border-bottom:1px solid var(--linha);
+  display:flex;flex-wrap:wrap;gap:.75rem 1.5rem;align-items:center;justify-content:space-between;padding:.8rem clamp(1.25rem,5vw,4rem)}
+.abas{display:flex;flex-wrap:wrap;gap:.4rem}
+.abas button,.status-escolha button{font:600 .95rem var(--display);border:1.5px solid var(--tinta);background:transparent;color:var(--tinta);
+  padding:.45rem .95rem;border-radius:999px;cursor:pointer}
+.abas button[aria-pressed="true"],.status-escolha button[aria-checked="true"]{background:var(--tinta);color:var(--branco)}
+.busca input{font:1rem var(--texto);padding:.5rem .9rem;border:1.5px solid var(--linha);border-radius:999px;min-width:16rem;background:var(--brisa)}
+
+main{display:block}
+.secao{padding:3rem clamp(1.25rem,5vw,4rem) 4rem}
+.secao h2{font-size:clamp(2.2rem,5vw,3.4rem);font-weight:800;letter-spacing:-.02em;margin-bottom:1.75rem}
+.secao-noite{background:var(--noite);color:var(--branco)}
+.grade{list-style:none;margin:0;padding:0;display:grid;gap:2rem 1.5rem;grid-template-columns:repeat(auto-fill,minmax(16.5rem,1fr))}
+.cartao a{display:block;color:inherit;text-decoration:none}
+.cartao-capa{position:relative;aspect-ratio:8/5;overflow:hidden;border-radius:6px}
+.cartao-capa svg,.cartao-capa img{width:100%;height:100%;object-fit:cover}
+.cartao-capa img{position:absolute;inset:0}
+.cartao-texto{padding-top:.8rem}
+.cartao h3{font-size:1.3rem;font-weight:600}
+.cartao a:hover h3{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.area{font-family:var(--display);font-size:.95rem;color:var(--mar);margin:.25rem 0 .35rem}
+.secao-noite .area{color:var(--sol)}
+.resumo{margin:0;font-size:.98rem;opacity:.85}
+.novo{display:inline-block;background:var(--sol);color:var(--tinta);font-size:.78rem;padding:0 .5rem;border-radius:999px;margin-left:.3rem;font-weight:600}
+.status{font-family:var(--display);font-weight:600;font-size:.9rem;margin:.5rem 0 0}
+.cartao.e-fomos .status{color:var(--mata)}
+.secao-noite .cartao.e-fomos .status{color:#9FD8B4}
+.vazio{padding:3rem clamp(1.25rem,5vw,4rem);font-family:var(--display);font-size:1.2rem}
+
+.rodape{background:var(--branco);padding:3rem clamp(1.25rem,5vw,4rem)}
+.rodape div{max-width:40rem}
+.rodape h2{font-size:1.6rem;margin-bottom:.5rem}
+.botoes,.links{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:1rem}
+.btn{display:inline-block;font:600 1rem var(--display);background:var(--oceano);color:var(--branco);border:0;padding:.7rem 1.2rem;border-radius:6px;cursor:pointer;text-decoration:none}
+.btn-sec{background:transparent;color:var(--oceano);box-shadow:inset 0 0 0 1.5px var(--oceano)}
+.aviso{font-family:var(--display);color:var(--mata);min-height:1.5em}
+
+/* ---------- página do passeio ---------- */
+.migalha{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;padding:1rem clamp(1.25rem,5vw,4rem);font-family:var(--display);background:var(--branco)}
+.migalha a{font-weight:600;text-decoration:none}
+.item-capa{position:relative;height:clamp(16rem,48vw,32rem);overflow:hidden;background:var(--oceano)}
+.item-capa svg,.item-capa img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.item{display:grid;grid-template-columns:minmax(0,1fr) minmax(18rem,24rem);gap:3rem;padding:2.5rem clamp(1.25rem,5vw,4rem) 4rem;max-width:78rem;margin:0 auto}
+.conteudo{max-width:40rem}
+.conteudo h1{font-size:clamp(2.4rem,6vw,4.2rem);font-weight:800;letter-spacing:-.03em}
+.conteudo .area{font-size:1.1rem}
+.destaque{font-size:1.3rem;line-height:1.5;margin:1.25rem 0 2rem}
+.conteudo h2{font-size:1.35rem;margin:2rem 0 .6rem}
+.conteudo p{margin:0 0 1rem}
+.dicas{padding-left:1.2rem;margin:0}
+.dicas li{margin-bottom:.4rem}
+.dicas li::marker{color:var(--mar)}
+.combina{list-style:none;padding:0;margin:0}
+.combina li{margin-bottom:.35rem}
+.combina a{font-family:var(--display);font-weight:600}
+.combina span{opacity:.7;font-size:.9rem}
+
+.notas{background:var(--branco);border-top:6px solid var(--sol);padding:1.5rem;align-self:start;position:sticky;top:1rem;border-radius:0 0 6px 6px}
+.notas h2{font-size:1.5rem;margin-bottom:1rem}
+.status-escolha{display:flex;gap:.5rem;margin-bottom:1.25rem}
+.campo{display:block;margin-bottom:1.1rem}
+.rotulo{display:block;font-family:var(--display);font-weight:600;font-size:.95rem;margin-bottom:.35rem}
+.campo input[type=date],.campo textarea{width:100%;font:1rem var(--texto);padding:.6rem .7rem;border:1.5px solid var(--linha);border-radius:6px;background:var(--brisa);color:var(--tinta)}
+.estrelas{display:flex;gap:.2rem}
+.estrelas button{font-size:1.9rem;line-height:1;background:none;border:0;color:var(--linha);cursor:pointer;padding:.1rem}
+.estrelas button.on{color:var(--sol)}
+.galeria{display:grid;grid-template-columns:repeat(3,1fr);gap:.4rem;margin-bottom:.6rem}
+.galeria:empty{display:none}
+.galeria figure{margin:0;position:relative;aspect-ratio:1;overflow:hidden;border-radius:4px}
+.galeria img{width:100%;height:100%;object-fit:cover;cursor:zoom-in}
+.galeria button{position:absolute;top:.2rem;right:.2rem;background:rgba(19,32,43,.75);color:#fff;border:0;border-radius:999px;width:1.6rem;height:1.6rem;cursor:pointer;font-size:.9rem}
+.salvo{font-family:var(--display);font-size:.9rem;color:var(--mata);min-height:1.4em;margin:0}
+
+.vizinhos{display:grid;grid-template-columns:1fr 1fr;gap:1rem;padding:2rem clamp(1.25rem,5vw,4rem);background:var(--oceano)}
+.vizinhos a{color:var(--branco);text-decoration:none;font-family:var(--display);font-weight:600;font-size:1.15rem}
+.vizinhos small{display:block;font-weight:400;color:var(--sol);font-size:.9rem}
+.vizinhos .prox{text-align:right}
+
+.periodo-noite{background:var(--noite);color:var(--branco)}
+.periodo-noite .migalha{background:var(--noite-2)}
+.periodo-noite a,.periodo-noite .migalha a{color:#BFD6FF}
+.periodo-noite .conteudo .area{color:var(--sol)}
+.periodo-noite .dicas li::marker{color:var(--sol)}
+.periodo-noite .btn{background:var(--sol);color:var(--tinta)}
+.periodo-noite .btn-sec{background:transparent;color:var(--sol);box-shadow:inset 0 0 0 1.5px var(--sol)}
+.periodo-noite .notas{background:var(--noite-2)}
+.periodo-noite .status-escolha button{border-color:var(--branco);color:var(--branco)}
+.periodo-noite .status-escolha button[aria-checked="true"]{background:var(--branco);color:var(--noite)}
+.periodo-noite .campo input[type=date],.periodo-noite .campo textarea{background:var(--noite);border-color:#3B4280;color:var(--branco);color-scheme:dark}
+.periodo-noite .estrelas button{color:#3B4280}
+.periodo-noite .estrelas button.on{color:var(--sol)}
+.periodo-noite .salvo{color:#9FD8B4}
+.periodo-noite .vizinhos{background:#0F1438}
+
+.zoom{position:fixed;inset:0;background:rgba(10,15,25,.92);display:flex;align-items:center;justify-content:center;z-index:50;cursor:zoom-out;padding:1rem}
+.zoom img{max-height:92vh;max-width:96vw;border-radius:4px}
+
+@media (max-width:860px){
+  .item{grid-template-columns:1fr;gap:2rem}
+  .notas{position:static}
+  .busca input{min-width:0;width:100%}
+  .busca{flex:1 1 100%}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+.periodo-noite .vizinhos a{color:var(--branco)}
